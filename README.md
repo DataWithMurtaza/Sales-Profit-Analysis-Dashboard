@@ -1,150 +1,219 @@
-#  Sales and Profit Analysis Dashboard
+# 📊 Sales & Profit Analysis Dashboard
 
-##  Project Overview
+An interactive **Sales & Profit Analysis Dashboard built in Microsoft Excel** to analyze sales performance, profitability, product performance, and regional trends.
 
-The **Sales and Profit Analysis Dashboard** is an interactive Microsoft Excel dashboard designed to analyze business sales and profitability performance.
-
-The project transforms raw sales data into meaningful insights using **Excel, Pivot Tables, Pivot Charts, Slicers, and interactive visualizations**. It helps users understand sales trends, profit performance, product performance, and regional results.
+This project demonstrates practical **Excel Data Analytics, Dashboard Design, Pivot Tables, Pivot Charts, Slicers, KPI reporting, and business insights**.
 
 ---
 
-##  Project Objectives
+## 📸 Dashboard Preview
 
-* Analyze overall sales and profit performance
-* Identify the most profitable products and categories
-* Compare sales and profit across regions
-* Understand sales trends and business performance
-* Create an interactive and user-friendly dashboard
-* Support data-driven business decision-making
+![Sales & Profit Analysis Dashboard](./Sales-and-Profit-Analysis-Dashboard.png)
 
 ---
 
-##  Tools & Technologies
+## 📌 Project Overview
+
+The goal of this project is to transform raw sales data into an interactive Excel dashboard that helps users quickly understand business performance and identify areas for improvement.
+
+The dashboard provides a clear view of key sales and profit metrics through interactive visualizations and filters.
+
+---
+
+## 🎯 Business Objectives
+
+* Analyze overall sales performance
+* Monitor total profit
+* Identify top-performing products
+* Compare sales across regions
+* Analyze category performance
+* Identify sales and profit trends
+* Support data-driven business decisions
+
+---
+
+## 🛠️ Tools & Skills Used
 
 * **Microsoft Excel**
-* **Pivot Tables**
-* **Pivot Charts**
-* **Slicers**
-* **Excel Formulas**
-* **Data Cleaning**
-* **Data Visualization**
-* **Interactive Dashboard**
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Excel Formulas
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+* KPI Reporting
+* Dashboard Design
+* Business Analysis
 
 ---
 
-##  Dashboard Features
+## 📈 Key KPIs
 
-The dashboard provides:
+The dashboard focuses on important business performance indicators such as:
 
-*  **Total Sales**
-*  **Total Profit**
-*  **Sales by Product**
-*  **Sales by Category**
-*  **Regional Sales Analysis**
-*  **Profit Analysis**
-*  **Sales Trends**
-*  **Interactive Filters/Slicers**
-*  **Dynamic Charts and Visualizations**
+| KPI                | Description                       |
+| ------------------ | --------------------------------- |
+| 💰 Total Sales     | Overall revenue generated         |
+| 📊 Total Profit    | Overall profit generated          |
+| 📦 Total Products  | Products included in the analysis |
+| 🌎 Regional Sales  | Sales performance by region       |
+| 🏷️ Category Sales | Sales performance by category     |
 
 ---
 
-##  Project Workflow
+## 🔍 Analysis Performed
+
+### 1. Sales Analysis
+
+* Sales performance over time
+* Sales by product
+* Sales by category
+* Sales by region
+
+### 2. Profit Analysis
+
+* Overall profitability
+* Profit by category
+* Profit by region
+* Product-level profitability
+
+### 3. Product Performance
+
+* Top-selling products
+* High-profit products
+* Low-performing products
+
+### 4. Regional Analysis
+
+* Regional sales comparison
+* Regional profit comparison
+* Identification of high-performing regions
+
+---
+
+## 💡 Business Insights
+
+The dashboard can help management answer questions such as:
+
+* Which products generate the highest sales?
+* Which products generate the highest profit?
+* Which category performs best?
+* Which region generates the most sales?
+* Which region generates the most profit?
+* How does sales performance change over time?
+* Which products or categories require attention?
+
+> **Note:** Specific numerical insights should be taken directly from the dashboard to ensure accuracy.
+
+---
+
+## 📊 Dashboard Features
+
+* Interactive slicers
+* KPI cards
+* Sales trend analysis
+* Profit analysis
+* Product performance analysis
+* Category analysis
+* Regional analysis
+* Interactive Pivot Charts
+* User-friendly dashboard layout
+
+---
+
+## 🔄 Project Workflow
 
 ```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Preparation
-   ↓
+Raw Sales Data
+      ↓
+Data Cleaning & Preparation
+      ↓
 Pivot Tables
-   ↓
+      ↓
 Pivot Charts
-   ↓
-Slicers & Filters
-   ↓
-Interactive Dashboard
-   ↓
+      ↓
+Interactive Slicers
+      ↓
+KPI Development
+      ↓
+Dashboard Design
+      ↓
 Business Insights
 ```
 
 ---
 
-##  Key Insights
-
-The dashboard can be used to identify:
-
-* Which products generate the highest sales
-* Which products and categories generate the highest profit
-* Which regions perform best
-* Sales and profit trends over time
-* Areas with strong or weak business performance
-* Opportunities for improving profitability
-
----
-
-##  Repository Structure
+## 📁 Repository Structure
 
 ```text
-Sales-and-Profit-Analysis-Dashboard/
+Sales-Profit-Analysis-Dashboard/
 │
-├── Sales and Profit Analysis Dashboard.xlsx
 ├── README.md
-└── Dashboard Screenshot.png
+│
+├── Sales-and-Profit-Analysis-Dashboard.xlsx
+│
+└── Sales-and-Profit-Analysis-Dashboard.png
 ```
 
 ---
 
-## Dashboard Preview
-## Dataset
-- <a href-"https://github.com/DataWithMurtaza/Sales-Profit-Analysis-Dashboard/blob/main/Sales%20and%20Profit%20Analysis%20Dashboard%20Data.Copmleted.xlsx">Dataset View</a>
+## 📥 Project Files
 
-Add your dashboard screenshot here:
+### 📊 Excel Dashboard
 
-```markdown
-![https://github.com/DataWithMurtaza/Sales-Profit-Analysis-Dashboard/blob/main/Sales%20and%20Profit%20Analysis%20dashbaord.png)
-```
+[Open / Download Excel Dashboard](./Sales-and-Profit-Analysis-Dashboard.xlsx)
 
----
-<img width="1517" height="660" alt="Sales and Profit Analysis dashbaord" src="https://github.com/user-attachments/assets/40085bc5-0224-48c0-8214-e132dd14ebf4" />
+### 🖼️ Dashboard Screenshot
 
-## Skills Demonstrated
-
-This project demonstrates practical skills in:
-
-* Excel Data Analysis
-* Data Cleaning
-* Pivot Tables
-* Pivot Charts
-* Dashboard Development
-* Data Visualization
-* Business Reporting
-* Interactive Slicers
-* Business Intelligence
-* Data-driven Decision Making
+[View Dashboard Screenshot](./Sales-and-Profit-Analysis-Dashboard.png)
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
-1. Download the Excel file from this repository.
-2. Open the workbook in Microsoft Excel.
-3. Go to the **Dashboard** sheet.
+1. Download the Excel workbook.
+2. Open it using Microsoft Excel.
+3. Navigate to the dashboard sheet.
 4. Use the available slicers and filters.
-5. Explore the charts and KPIs.
-6. Analyze sales and profit performance.
+5. Explore sales and profit performance.
+6. Analyze the charts and KPIs.
+7. Use the insights to support business decisions.
 
 ---
 
-##  About the Project
+## 🎓 Skills Demonstrated
 
-This project is part of my **Excel Data Analytics portfolio** and was created to demonstrate how Excel can be used to transform business data into interactive dashboards and actionable insights.
+This project demonstrates my ability to:
 
-I am continuously building practical projects in **Excel, Power BI, SQL, and Data Analytics** to strengthen my professional portfolio.
+* Clean and prepare business data
+* Analyze sales and profitability
+* Build interactive Excel dashboards
+* Create Pivot Tables and Pivot Charts
+* Use Slicers for interactive analysis
+* Develop KPI reports
+* Create business-focused visualizations
+* Translate data into actionable insights
 
 ---
 
-## ⭐ Feedback
+## 👨‍💻 About Me
 
-If you find this project useful, feel free to ⭐ **star this repository** and explore my other data analytics projects.
+**Ghulam Murtaza — Data Analyst**
+
+I specialize in **Microsoft Excel, Power BI, Power Query, and Excel Automation**, with a focus on transforming raw data into meaningful dashboards, reports, and business insights.
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+* 🐙 **GitHub:** [Murtazakhan07](https://github.com/Murtazakhan07)
+
+---
+
+⭐ If you find this project useful, consider giving the repository a **star**.
+
+**Thank you for visiting my project!**
+
 
