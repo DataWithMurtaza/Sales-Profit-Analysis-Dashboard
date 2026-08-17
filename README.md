@@ -8,8 +8,9 @@ This project demonstrates practical **Excel Data Analytics, Dashboard Design, Pi
 
 ## 📸 Dashboard Preview
 
-![https://github.com/Murtazakhan07/Sales-Profit-Analysis-Dashboard/blob/main/Sales%20and%20Profit%20Analysis%20Dashboard%20Data.Copmleted.xlsx](./<img width="1517" height="660" alt="Sales and Profit Analysis dashbaord" src="https://github.com/user-attachments/assets/ed42b00b-4bb5-4487-89eb-6478675fa0e4" />
-)
+## 📸 Dashboard Preview
+
+[![Sales & Profit Analysis Dashboard](./<img width="1517" height="660" alt="Sales and Profit Analysis dashbaord" src="https://github.com/user-attachments/assets/e008ae1f-1b02-4d5c-92f3-6afafc82ef0c" />)
 
 ---
 
@@ -167,8 +168,7 @@ Sales-Profit-Analysis-Dashboard/
 
 ### 🖼️ Dashboard Screenshot
 
-[View Dashboard Screenshot](./<img width="1517" height="660" alt="Sales and Profit Analysis dashbaord" src="https://github.com/user-attachments/assets/335326c4-a6d2-40b8-8cf3-c958637133d0" />
-)
+[View Dashboard Screenshot](./<img width="1517" height="660" alt="Sales and Profit Analysis dashbaord" src="https://github.com/user-attachments/assets/335326c4-a6d2-40b8-8cf3-c958637133d0" />)
 
 ---
 
