@@ -6,7 +6,7 @@ This project demonstrates practical **Excel Data Analytics, Dashboard Design, Pi
 
 ---
 
-## 📸 Dashboard Preview
+
 
 ## 📸 Dashboard Preview
 
